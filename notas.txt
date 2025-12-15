@@ -1,1 +1,2 @@
 Objetivo 1: Aprender a trabajar con Git y GitKraken de forma profesional.
+Objetivo 2: Mejorar mis conocimientos en desarrollo Full Stack.
