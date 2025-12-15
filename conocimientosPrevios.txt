@@ -1,2 +1,3 @@
 Conocimientos previos en programación:
 - HTML básico
+- CSS básico
