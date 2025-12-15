@@ -1,0 +1,1 @@
+Realización de la Actividad 2. Creación de repositorio en Git Hub, enlazado en local con Git Kraken. Creación de archivo .txt y ejecución de commit.
