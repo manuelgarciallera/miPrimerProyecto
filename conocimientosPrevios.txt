@@ -1,0 +1,4 @@
+Conocimientos previos en programación:
+- HTML básico
+- CSS básico
+- Flex y Grid básico
