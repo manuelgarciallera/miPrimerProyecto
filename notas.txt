@@ -1,1 +1,3 @@
-Realización de la Actividad 2. Creación de repositorio en Git Hub, enlazado en local con Git Kraken. Creación de archivo .txt y ejecución de commit.
+Objetivo 1: Aprender a trabajar con Git y GitKraken de forma profesional.
+Objetivo 2: Mejorar mis conocimientos en desarrollo Full Stack.
+Objetivo 3. Adquirir buenas prácticas de trabajo colaborativo con ramas.
